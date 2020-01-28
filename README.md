@@ -1,2 +1,0 @@
-# FirstHerokuApp
-First Herko App.
